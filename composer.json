@@ -10,12 +10,12 @@
     ],
     "require": {
         "genealabs/laravel-pivot-events": "*",
-        "illuminate/cache": "5.8.*",
-        "illuminate/config": "5.8.*",
-        "illuminate/console": "5.8.*",
-        "illuminate/database": "5.8.*",
-        "illuminate/support": "5.8.*",
-        "php": "^7.1.3"
+        "illuminate/cache": "*",
+        "illuminate/config": "*",
+        "illuminate/console": "*",
+        "illuminate/database": "*",
+        "illuminate/support": "*",
+        "php": ">7.0"
     },
     "require-dev": {
         "fzaninotto/faker": "*",
